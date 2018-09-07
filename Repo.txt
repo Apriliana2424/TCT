@@ -1,0 +1,38 @@
+https://github.com/Apriliana2424/Teknologi-Cloud-Terapan.git
+
+student@student-PC51 MINGW64 /f/Family/Teknologi Cloud Terapan
+$ git config --global user.name "apriliana2424"
+
+student@student-PC51 MINGW64 /f/Family/Teknologi Cloud Terapan
+$ git config --global user.email "apriliana2424@gmail.com"
+
+student@student-PC51 MINGW64 /f/Family/Teknologi Cloud Terapan
+$ git init
+Initialized empty Git repository in F:/Family/Teknologi Cloud Terapan/.git/
+
+student@student-PC51 MINGW64 /f/Family/Teknologi Cloud Terapan (master)
+$ git add README.md
+
+student@student-PC51 MINGW64 /f/Family/Teknologi Cloud Terapan (master)
+$ git commit -m "Materi XaaS"
+[master (root-commit) d66f7ed] Materi XaaS
+ 1 file changed, 46 insertions(+)
+ create mode 100644 README.md
+
+student@student-PC51 MINGW64 /f/Family/Teknologi Cloud Terapan (master)
+$ git remote add origin https://github.com/Apriliana2424/Teknologi-Cloud-Terapan.git
+
+student@student-PC51 MINGW64 /f/Family/Teknologi Cloud Terapan (master)
+$ git push -u origin master
+
+
+JIKA MASIH ADA PERUBAHAN LALU INGIN DIUPLOAD LAGI MAKA :
+
+student@student-PC51 MINGW64 /f/Family/Teknologi Cloud Terapan (master)
+$ git add README.md
+
+student@student-PC51 MINGW64 /f/Family/Teknologi Cloud Terapan (master)
+$ git commit -m "XXXX"
+
+student@student-PC51 MINGW64 /f/Family/Teknologi Cloud Terapan (master)
+$ git push -u origin master
