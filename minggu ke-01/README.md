@@ -12,7 +12,7 @@ aplikasi yang dijalankan hanya sebagai layanan saja yang dapat
 kita jalankan dengan mudah tanpa perlu ribet menginstall atau lainnya.
 
 
-###Dalam Cloud Computing terdapat beberapa layanan utama :
+### Dalam Cloud Computing terdapat beberapa layanan utama :
 
 1 **IaaS** *(Infrastruktur as a Service)* adalah suatu infrastruktur yang
 	disediakan oleh cloud untuk dapat digunakan yang lebih dominal dalam 
@@ -40,7 +40,7 @@ menginstall. Tetapi tetap saja masih ada kekurangan dalam
 aplikasi tersebut seperti jumlah penyimpanan yang dibatasi
 oleh penyedia layanan dropbox.
 
-###Adapun beberapa kelemahan yang ada di Cloud atau yang disebut XaaS :
+### Adapun beberapa kelemahan yang ada di Cloud atau yang disebut XaaS :
 * Keamanan yang tidak bisa terlalu dipercaya karena data yang kita simpan dalam
 cloud terkadang ada yang bisa mengambil atau bahkan mencurinya.
 * Cloud dapat membuat kita menjadi lebih terikat dan bergantung pada satu software
