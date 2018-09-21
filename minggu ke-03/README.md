@@ -82,8 +82,7 @@ Caranya, buka menu File.
 14. Kemudian kamu dapat mem-paste link tersebut dan membagikan file ke mana saja.
 ![15](https://github.com/Apriliana2424/tct/blob/master/images/15.jpg)
 ---
-#### Kamu juga bisa mengirim file tersebut langsung ke email orang lain.
-Caranya, isi alamat email si penerima di sana. Klik Bagikan untuk langsung mengirim file tersebut lewat email.
+#### Kamu juga bisa mengirim file tersebut langsung ke email orang lain. Caranya, isi alamat email si penerima di sana. Klik Bagikan untuk langsung mengirim file tersebut lewat email.
 ![16](https://github.com/Apriliana2424/tct/blob/master/images/16.jpg)
 ---
 > @2017 **Kompiwin**
