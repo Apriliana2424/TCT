@@ -1,11 +1,12 @@
 # Architecture as a Service
 ---
 Dibawah ini merupakan schema gambar secara umum untuk architecture as a service.
+---
 ![Architecture Cloud Computing](https://github.com/Apriliana2424/tct/blob/master/images/Architecture%20Cloud%20Computing.jpeg)
-
+---
 ### SaaS (Software as a Service)
 ---
-**Software as a Service** adalah layanan software yang digunakan melalui internet. Sebenarnya hal ini bukan merupakan hal yang asing dan sering kita gunakan (hanya mungkin kita belum tahu aja), contoh dari SaaS ini adalah google docs, facebook, aplikasi CRM berbayar, dan lain-lain. Pengguna hanya perlu menggunakan aplikasi tersebut tanpa harus mengerti bagaimana data disimpan, bagaimana aplikasi tersebut di maintenance, karena hal tersebut merupakan service yang disediakan penyedia jasa. Pembayaran dari penggunaan aplikasi-aplikasi ini pun hanya per pemakaiannya (terkadang ada yang tak berbayar tetapi ada fitur-fitur tertentu yang bisa didapatkan ketika pengguna membayar fitur-fitur tersebut, yah semacam nyewa parabola gitu lah, bayar berdasar channel yang diinginkan). Dari sinilah muncul istilah Pay per use, pay as you go dan lain sebagainya. Yang jelas, dengan menggunakan SaaS banyak perusahaan yang terbantu untuk menekan biaya yang harus dikeluarkan untuk membeli sebuah perangkat lunak.
+#### **Software as a Service** adalah layanan software yang digunakan melalui internet. Sebenarnya hal ini bukan merupakan hal yang asing dan sering kita gunakan (hanya mungkin kita belum tahu aja), contoh dari SaaS ini adalah google docs, facebook, aplikasi CRM berbayar, dan lain-lain. Pengguna hanya perlu menggunakan aplikasi tersebut tanpa harus mengerti bagaimana data disimpan, bagaimana aplikasi tersebut di maintenance, karena hal tersebut merupakan service yang disediakan penyedia jasa. Pembayaran dari penggunaan aplikasi-aplikasi ini pun hanya per pemakaiannya (terkadang ada yang tak berbayar tetapi ada fitur-fitur tertentu yang bisa didapatkan ketika pengguna membayar fitur-fitur tersebut, yah semacam nyewa parabola gitu lah, bayar berdasar channel yang diinginkan). Dari sinilah muncul istilah Pay per use, pay as you go dan lain sebagainya. Yang jelas, dengan menggunakan SaaS banyak perusahaan yang terbantu untuk menekan biaya yang harus dikeluarkan untuk membeli sebuah perangkat lunak.
 ---
 ## Dropbox
 ![1](https://github.com/Apriliana2424/tct/blob/master/images/1.jpg)
@@ -81,7 +82,7 @@ Caranya, buka menu File.
 14. Kemudian kamu dapat mem-paste link tersebut dan membagikan file ke mana saja.
 ![15](https://github.com/Apriliana2424/tct/blob/master/images/15.jpg)
 ---
-Kamu juga bisa mengirim file tersebut langsung ke email orang lain.
+#### Kamu juga bisa mengirim file tersebut langsung ke email orang lain.
 Caranya, isi alamat email si penerima di sana. Klik Bagikan untuk langsung mengirim file tersebut lewat email.
 ![16](https://github.com/Apriliana2424/tct/blob/master/images/16.jpg)
 ---
