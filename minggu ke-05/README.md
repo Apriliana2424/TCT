@@ -50,8 +50,9 @@ $('#my').jexcel({ data:data, colWidths: [ 300, 80, 100 ] });
 > Untuk melihat isi direktori di cd xampp\apache\bin bisa menggunakan perintah dir. Untuk melihat isi direktori apakah sudah terdapat httpd.exe atau belum.
 
 ***Langkah - langkah yang ada diatas seperti langkah dibawah ini :***
-![]()
+![](https://github.com/Apriliana2424/tct/blob/master/minggu%20ke-05/images/01.png)
+
 ***Hasil dari aplikasi jExcel Spreadsheet :***
-![]()
+![](https://github.com/Apriliana2424/tct/blob/master/minggu%20ke-05/images/02.png)
 
 > copyright@ Apriliana Puspitasari 2018
