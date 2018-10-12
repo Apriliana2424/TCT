@@ -76,7 +76,7 @@ Server running at http://127.0.0.1:1337/
 
 *Menginstal framework express*
 Setelah mengintsal node js kemudian melakukan penginstalan framework express di windows. Berikut langkah langkahnya
-1. Menentukan dimana kita akan menginstal express, disni saya menggunakan direktori G:\teknik informatika\NodeJs\ untuk meletakkan hasil instalasi express
+1. Menentukan dimana kita akan menginstal express, disni saya menggunakan direktori C:\nodejs\ untuk meletakkan hasil instalasi express
 2. Memasukkan perintah instalan express dengan menggunakan npm : npm install -g express
 ---
 
