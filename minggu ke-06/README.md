@@ -3,6 +3,7 @@
 
 **RESTful API / REST API** merupakan implementasi dari API (Application Programming Interface). REST (Representional State Transfer) adalah suatu arsitektur metode komunikasi yang menggunakan protokol HTTP untuk pertukaran data dan metode ini sering diterapkan dalam pengembangan aplikasi. Dimana tujuannya adalah untuk menjadikan sistem yang memiliki performa yang baik, cepat dan mudah untuk di kembangkan (scale) terutama dalam pertukaran dan komunikasi data.
 ![](https://github.com/Apriliana2424/tct/blob/master/minggu%20ke-06/images/1.jpg)
+
 RESTful API memiliki 4 komponen penting di dalamnya diantaranya adalah
 1. URL Design
 2. HTTP Verbs
@@ -68,6 +69,7 @@ Server running at http://127.0.0.1:1337/
 ```
 
 4. Kemudian panggil di browser dengn memasukkan alamat localhost:1337 (sesuai pada port yang sudah dituliskan di file file.js) pada address bar.
+
 ![](https://github.com/Apriliana2424/tct/blob/master/minggu%20ke-06/images/3.png)
 
 5.	Jika sudah tampil seperti di atas berarti NodeJs sudah bisa dijalankan dan sudah aktif untuk file file.js 
