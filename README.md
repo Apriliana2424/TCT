@@ -10,4 +10,6 @@
 
 [Readme Minggu Ke - 05](https://github.com/Apriliana2424/tct/tree/master/minggu%20ke-05)
 
+[Readme Minggu Ke - 06](https://github.com/Apriliana2424/tct/tree/master/minggu%20ke-06)
+
 ![April](https://github.com/Apriliana2424/tct/blob/master/images/images.jpg)
