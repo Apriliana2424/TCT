@@ -5,30 +5,30 @@ Pertama sebelum memulai mengerjakan praktikum ini, saya mencoba aplikasi
 nodejs saya dari pertemuan sebelumnya dengan membuka file yang kemarin saya jalankan, 
 saya menjalankan pertemuan6.js dan masih berjalan makanya saya menggunakan aplikasi nodejs yang sebelumnya. Seperti gambar dibawah ini :
 
-![1]()
+![1](https://github.com/Apriliana2424/tct/blob/master/minggu%20ke-07/images/1.png)
 
-![2]()
+![2](https://github.com/Apriliana2424/tct/blob/master/minggu%20ke-07/images/2.png)
 
 Setelah mencoba aplikasi nodejs saya berhasil maka selanjutnya saya menghidupkan database server : MySQL dan web server: apache. Karena disini saya
 menggunakan XAMPP maka saya membuat database juga dalam XAMPP, seperti gambar dibawah ini :
 
 *Gambar untuk meng-aktifkan web server dan database server :*
 
-![3]()
+![3](https://github.com/Apriliana2424/tct/blob/master/minggu%20ke-07/images/3.png)
 
 *Gambar untuk masuk kedalam direktori mysql di xampp :*
 
-![4]()
+![4](https://github.com/Apriliana2424/tct/blob/master/minggu%20ke-07/images/4.png)
 
 *Gambar langkah dalam pembuatan database dan tabel di MySQL :*
 
-![5]()
+![5](https://github.com/Apriliana2424/tct/blob/master/minggu%20ke-07/images/5.png)
 
 
 **Setelah database dibuat selanjutnya saya mengecek database dalam phpmyadmin :**
 
-![6]()
-![7]()
+![6](https://github.com/Apriliana2424/tct/blob/master/minggu%20ke-07/images/6.png)
+![7](https://github.com/Apriliana2424/tct/blob/master/minggu%20ke-07/images/7.png)
 
 ---
 
@@ -36,7 +36,7 @@ menggunakan XAMPP maka saya membuat database juga dalam XAMPP, seperti gambar di
 
 Pertama install body-parser untuk koneksi ke MySQL, seperti dibawah ini :
 
-![8]()
+![8](https://github.com/Apriliana2424/tct/blob/master/minggu%20ke-07/images/8.png)
 
 *Untuk mengecek versi NodeJS nya dapat menggunakan perintah npm init*
 
@@ -138,15 +138,15 @@ module.exports = function(app) {
 
 Untuk mencoba apakah server yang kita buat sudah dapat dijalankan dengan mengecek di CMD dengan perintah :
 
-![9]()
+![9](https://github.com/Apriliana2424/tct/blob/master/minggu%20ke-07/images/9.png)
 
 *Setelah berhasil dapat kita coba dalam web browser dengan perintah localhost:3000*
 
-![10]()
+![10](https://github.com/Apriliana2424/tct/blob/master/minggu%20ke-07/images/10.png)
 
 *Jika sudah berhasil maka selanjutnya untuk menampilkan isi data dari database mysql dengan perintah seperti dibawah ini :*
 
-![11]()
+![11](https://github.com/Apriliana2424/tct/blob/master/minggu%20ke-07/images/11.png)
 
 ---
 
