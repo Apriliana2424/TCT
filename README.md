@@ -14,4 +14,8 @@
 
 [Readme Minggu Ke - 07](https://github.com/Apriliana2424/tct/tree/master/minggu%20ke-07)
 
+[Readme Minggu Ke - 09](https://github.com/Apriliana2424/Web-2.0)
+
+[Readme Minggu Ke - 10](https://github.com/Apriliana2424/git-sendiri-tim)
+
 ![April](https://github.com/Apriliana2424/tct/blob/master/images/images.jpg)
