@@ -18,4 +18,6 @@
 
 [Readme Minggu Ke - 10](https://github.com/Apriliana2424/git-sendiri-tim)
 
+[Readme Minggu Ke - 11](https://github.com/Apriliana2424/tct-docker-apriliana)
+
 ![April](https://github.com/Apriliana2424/tct/blob/master/images/images.jpg)
