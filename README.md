@@ -20,4 +20,6 @@
 
 [Readme Minggu Ke - 11](https://github.com/Apriliana2424/tct-docker-apriliana)
 
+[Readme Minggu Ke - 12](https://github.com/Apriliana2424/tct-docker-apriliana-2)
+
 ![April](https://github.com/Apriliana2424/tct/blob/master/images/images.jpg)
